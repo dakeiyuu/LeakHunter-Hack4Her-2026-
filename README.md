@@ -55,7 +55,7 @@ NPS satisfaction tracking with animated gauge, territory breakdown and per-store
 |---|---|
 | 🗓️ Context | Canal Tradicional — Beverage Industry |
 | 📍 Location | Monterrey, Nuevo León, México |
-| 🤖 AI Model | Gemini 2.0 Flash via Google AI Studio |
+| 🤖 AI Model | Gemini 3.1 Lite Flash via Google AI Studio |
 | 📊 ML Model | Random Forest (scikit-learn) |
 | 🗄️ Data | Real sales, cooler and client data |
 
@@ -70,7 +70,7 @@ NPS satisfaction tracking with animated gauge, territory breakdown and per-store
 ![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-white?style=flat&logo=google&logoColor=white&labelColor=00bcd4&color=0097a7)
 
 - **SwiftUI + Swift Charts** — native iOS interface with animated gauges and charts
-- **Gemini 2.0 Flash** — AI agent for store diagnosis, briefings and reports
+- **Gemini 3.1 Flash Lite** — AI agent for store diagnosis, briefings and reports
 - **FastAPI** — backend REST API with session memory (optional)
 - **scikit-learn** — Random Forest churn prediction model
 - **pandas + numpy** — data processing and bell-curve sampling
