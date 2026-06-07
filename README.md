@@ -87,7 +87,7 @@ NPS satisfaction tracking with animated gauge, territory breakdown and per-store
 | 🔍 Smart Filters | Filter by risk level, month, territory and subchannel |
 | 📄 AI Reports | Full period reports generated autonomously: summary, territories, trends, actions |
 | 📋 NPS Surveys | Satisfaction tracking with animated donut gauge per territory |
-| 🌙 Dark Mode | Full dark mode support |
+
 
 ---
 
