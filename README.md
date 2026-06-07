@@ -34,7 +34,7 @@ Churn Hunters is an iOS app with a real ML churn prediction model and an AI agen
 A prioritized daily route for the preventista — showing the top stores by churn risk, with liquid-fill gauges, transaction data, cooler status and territory breakdown. One tap reveals the full store detail and AI-generated diagnosis.
 
 ### 🤖 Churn Hunter Agent
-An AI agent powered by Gemini 2.0 Flash that analyzes each store's data and generates:
+An AI agent powered by Gemini 3.1 Flash Lite that analyzes each store's data and generates:
 - A **diagnosis** of why the store is at risk
 - A **projection** of what happens if no action is taken
 - A **concrete action** the preventista should take today
